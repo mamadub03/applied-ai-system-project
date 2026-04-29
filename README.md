@@ -1,5 +1,7 @@
 # AI Advanced High School — Student Handbook RAG Assistant
 
+Loom Link - https://www.loom.com/share/dacabcefbe5c40d193201a04ad4e1711
+
 ## Title and Summary
 
 This project is a Retrieval-Augmented Generation (RAG) tool that allows students at AI Advanced High School to ask natural-language questions about their student handbook and receive accurate, grounded answers. Instead of scrolling through a long policy document, students type a question and the system finds the most relevant handbook sections, then uses Claude to generate a clear answer from that context. It is based on the RAG pattern introduced in Module 4: rather than fine-tuning a model, we supply retrieved text as context at inference time.
