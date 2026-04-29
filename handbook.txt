@@ -1,0 +1,196 @@
+AI ADVANCED HIGH SCHOOL — STUDENT HANDBOOK
+Academic Year 2025–2026
+===============================================
+
+SECTION 1: SCHOOL MISSION AND VALUES
+--------------------------------------
+AI Advanced High School is dedicated to preparing the next generation of responsible AI innovators, ethicists, and practitioners. Our mission is to provide rigorous, project-based education in artificial intelligence, machine learning, and computer science while cultivating ethical reasoning and collaborative problem-solving skills.
+
+Core Values:
+- Curiosity: We encourage students to ask bold questions and explore the boundaries of what AI can do.
+- Responsibility: Every student is expected to understand the societal impact of the technology they build.
+- Collaboration: Progress in AI is a team effort. Students are expected to work respectfully and inclusively.
+- Integrity: Academic honesty is non-negotiable. Submitting AI-generated work as your own without disclosure is considered plagiarism.
+- Growth Mindset: Failure is a learning tool. Students are expected to iterate, improve, and reflect.
+
+SECTION 2: ACADEMIC CALENDAR AND SCHEDULE
+------------------------------------------
+The academic year runs from September 3, 2025 to June 12, 2026.
+
+Daily Schedule:
+- Period 1: 8:00 AM – 8:55 AM
+- Period 2: 9:00 AM – 9:55 AM
+- Period 3: 10:00 AM – 10:55 AM
+- Advisory: 11:00 AM – 11:20 AM
+- Lunch: 11:20 AM – 12:00 PM
+- Period 4: 12:05 PM – 1:00 PM
+- Period 5: 1:05 PM – 2:00 PM
+- Period 6: 2:05 PM – 3:00 PM
+
+Late Start Wednesdays: School begins at 9:30 AM on Wednesdays to allow for faculty professional development. All periods are shortened by 15 minutes on these days.
+
+SECTION 3: ATTENDANCE POLICY
+------------------------------
+Regular attendance is critical to academic success. Students are expected to attend all scheduled classes.
+
+Excused Absences: Medical appointments (with documentation), family emergencies, religious observances, and school-sanctioned trips are considered excused. Students must submit documentation to the attendance office within 3 school days of returning.
+
+Unexcused Absences: Any absence not meeting the above criteria is unexcused. Three or more unexcused absences in a semester will result in a meeting with the student's counselor and a parent/guardian notification.
+
+Tardy Policy: Students arriving more than 5 minutes after the start of class are marked tardy. Four tardies equal one unexcused absence.
+
+If a student accumulates 10 or more unexcused absences in a semester, they may be required to complete a recovery plan to receive credit for affected courses.
+
+SECTION 4: GRADING AND ACADEMIC POLICIES
+------------------------------------------
+Grading Scale:
+- A: 90–100%
+- B: 80–89%
+- C: 70–79%
+- D: 60–69%
+- F: Below 60%
+
+Grade Weights:
+- Projects and Labs: 50%
+- Quizzes and Tests: 30%
+- Participation and Classwork: 10%
+- Homework: 10%
+
+GPA Calculation: Grades are calculated on a 4.0 unweighted scale. Advanced Placement (AP) and Honors courses receive a 0.5 GPA boost (weighted scale: 5.0 max).
+
+Academic Probation: A student who earns a GPA below 2.0 at the end of a semester is placed on academic probation. Students on probation must meet weekly with their counselor and may have extracurricular participation limited.
+
+Incomplete Grades: Students who are unable to finish coursework due to documented illness or emergency may request an Incomplete (I) grade. Incompletes must be resolved within 30 calendar days of the end of the semester or the grade defaults to an F.
+
+SECTION 5: ADVANCED PLACEMENT (AP) AND HONORS COURSES
+-------------------------------------------------------
+AI Advanced High School offers the following AP and Honors courses:
+
+AP Courses:
+- AP Computer Science Principles
+- AP Computer Science A (Java)
+- AP Statistics
+- AP Calculus AB
+- AP Calculus BC
+- AP English Language and Composition
+- AP Psychology
+
+Honors Courses:
+- Honors Introduction to Machine Learning
+- Honors Data Structures and Algorithms
+- Honors Ethics of Artificial Intelligence
+- Honors Linear Algebra
+
+Prerequisites: AP and Honors courses require a B or higher in the prerequisite course and a teacher recommendation. Students may appeal prerequisite requirements by submitting a written petition to the Academic Affairs office.
+
+SECTION 6: GRADUATION REQUIREMENTS
+-------------------------------------
+To receive a diploma from AI Advanced High School, students must complete the following:
+
+Credit Requirements (total: 28 credits):
+- English/Language Arts: 4 credits
+- Mathematics: 4 credits (must include Algebra II or equivalent)
+- Science: 3 credits (must include one lab science)
+- Social Studies: 3 credits
+- Physical Education / Health: 1.5 credits
+- Computer Science / AI Core: 4 credits (school-specific requirement)
+- Electives: 8.5 credits
+
+AI Capstone Project: All seniors must complete a senior capstone project demonstrating mastery of at least one AI concept or application. The capstone must include a written component, a presentation, and a working demonstration. Capstones are evaluated by a faculty panel and at least one industry mentor.
+
+Community Service: Students must complete a minimum of 40 hours of community service before graduation. At least 10 of those hours must be related to technology education or digital equity initiatives.
+
+SECTION 7: TECHNOLOGY USE POLICY
+----------------------------------
+Devices: Students are expected to bring a fully charged laptop to school each day. The school provides loaner laptops for students who need them — contact the IT Help Desk in Room 102.
+
+School Network: Students are permitted to use the school's Wi-Fi network for educational purposes only. Attempting to bypass the school's content filters, accessing unauthorized networks, or using tools to mask internet activity is a violation of this policy and may result in suspension of network privileges.
+
+AI Tool Use in Classwork: AI tools (such as ChatGPT, Claude, Gemini, and GitHub Copilot) may be used as learning aids unless a teacher explicitly prohibits their use on a specific assignment. When AI tools are used, students must disclose which tools they used and how. Submitting AI-generated content as your own original work without disclosure is a violation of the Academic Integrity Policy.
+
+Data Privacy: Students must not share personal information (their own or others') with AI tools or third-party platforms not approved by the school. A list of approved tools is maintained by the IT department and updated each semester.
+
+SECTION 8: ACADEMIC INTEGRITY POLICY
+--------------------------------------
+AI Advanced High School holds academic integrity as a foundational value. Violations of this policy include but are not limited to:
+
+- Plagiarism: Submitting someone else's work as your own, including uncited AI-generated text.
+- Cheating: Using unauthorized materials or assistance during an exam or assessment.
+- Fabrication: Inventing or misrepresenting data, citations, or sources.
+- Collusion: Working with others on an assignment designated as individual work without teacher approval.
+
+Consequences for First Offense: A grade of zero on the assignment, a parent/guardian notification, and a written reflection submitted to the Academic Dean.
+
+Consequences for Second Offense: Referral to the Honor Council, possible course failure, and notation in the student's disciplinary file.
+
+Consequences for Third Offense: Recommendation for suspension or expulsion reviewed by the Principal.
+
+SECTION 9: CODE OF CONDUCT AND DISCIPLINE
+-------------------------------------------
+Students are expected to treat all members of the school community — peers, faculty, staff, and visitors — with dignity and respect.
+
+Prohibited Behaviors:
+- Bullying, harassment, or discrimination of any kind, including cyberbullying
+- Possession or use of illegal substances on school grounds
+- Physical altercations or threats of violence
+- Vandalism or destruction of school property
+- Unauthorized access to school systems, networks, or another student's accounts
+
+Disciplinary Process: Minor infractions are handled at the classroom level by the teacher. Repeated or serious infractions are referred to the Assistant Principal. Severe violations may result in immediate suspension pending investigation.
+
+Restorative Practices: Where appropriate, the school encourages restorative conferences as an alternative to punitive discipline. Students who participate in restorative practices in good faith may have disciplinary actions reduced.
+
+SECTION 10: EXTRACURRICULAR ACTIVITIES AND CLUBS
+--------------------------------------------------
+AI Advanced High School offers a variety of student organizations and activities:
+
+Clubs and Organizations:
+- AI Ethics Club — meets Tuesdays at 3:15 PM in Room 204
+- Robotics Team — meets Mondays and Wednesdays at 3:30 PM in the Makerspace
+- Machine Learning Competition Team (MLComp) — meets Thursdays at 3:30 PM in Room 108
+- Coding for Good — meets Fridays at 3:00 PM in Room 110
+- Student Government Association (SGA) — meets every other Monday at 3:15 PM in the auditorium
+- Math Team — meets Tuesdays and Thursdays at 7:30 AM in Room 201
+- Yearbook and Media Team — meets Wednesdays at 3:15 PM in Room 115
+
+Eligibility: Students must maintain a 2.5 GPA or higher to participate in extracurricular activities. Students on academic probation may not participate until their GPA is restored.
+
+Starting a New Club: Students interested in forming a new club must submit a written proposal to the Student Activities Coordinator. The proposal must include a faculty sponsor, a statement of purpose, a meeting schedule, and at least 8 founding members.
+
+SECTION 11: COUNSELING AND SUPPORT SERVICES
+---------------------------------------------
+The school counseling team supports students with academic planning, social-emotional needs, and career preparation.
+
+Academic Counselors: Each student is assigned a counselor based on their last name. Counselors are available for drop-in hours from 7:45 AM – 8:00 AM and 3:00 PM – 3:30 PM daily, or by appointment.
+
+Mental Health Support: A licensed school psychologist is available on Tuesdays and Thursdays. Students in crisis should notify any staff member immediately or go directly to the Wellness Center in Room 105.
+
+College and Career Advising: Beginning in junior year, students may meet with the College and Career Advisor to discuss post-secondary options, application timelines, and scholarship opportunities. The advisor holds open office hours every Monday from 2:00 PM – 4:00 PM.
+
+SECTION 12: HEALTH AND SAFETY
+-------------------------------
+Medication: Students requiring medication during school hours must have a completed medical authorization form on file in the nurse's office. Students may not carry prescription medication (except auto-injectors such as EpiPens) without prior authorization.
+
+Emergency Procedures: Evacuation maps are posted in every classroom. Students should follow teacher instructions immediately during drills and emergencies. Fire drills are conducted monthly; lockdown drills are conducted once per semester.
+
+Food Allergies: Students with life-threatening food allergies must have an emergency action plan on file. The cafeteria maintains a list of common allergens present in meal offerings. Peanut products are prohibited in the building.
+
+SECTION 13: FREQUENTLY ASKED QUESTIONS
+----------------------------------------
+Q: How do I request a course change?
+A: Course change requests must be submitted to your counselor within the first 10 school days of the semester. Changes are subject to space availability and prerequisite requirements.
+
+Q: What happens if I fail a required course?
+A: Students who fail a required course must retake it, either during the following academic year or in an approved summer school program. Both the original and retake grades appear on the transcript; the higher grade is used for GPA calculation.
+
+Q: How are AP exam fees handled?
+A: The school covers AP exam fees for students who qualify for free or reduced-price lunch. Other students are responsible for their own exam fees. Financial hardship waivers are available — contact the Academic Affairs office.
+
+Q: Can I take courses at a local college?
+A: Juniors and seniors in good academic standing may apply for the Dual Enrollment program, which allows them to take college courses for both high school and college credit. Contact the College and Career Advisor for eligibility requirements.
+
+Q: Where do I find the list of approved AI tools?
+A: The current list of school-approved AI tools is posted on the school portal under "IT Resources." It is updated at the beginning of each semester.
+
+Q: What is the dress code?
+A: AI Advanced High School does not have a uniform requirement but expects students to dress in a manner that is appropriate for a learning environment. Clothing that displays offensive language, promotes illegal activity, or is otherwise disruptive to the learning environment is not permitted.

@@ -1,0 +1,118 @@
+AI ADVANCED HIGH SCHOOL — COURSE CATALOG
+Academic Year 2025–2026
+===============================================
+
+DEPARTMENT OF COMPUTER SCIENCE AND ARTIFICIAL INTELLIGENCE
+------------------------------------------------------------
+
+CS101 — Introduction to Programming (Python)
+Credits: 1.0 | Grade Level: 9–10 | Prerequisite: None
+This course introduces students to programming fundamentals using Python. Topics include variables, data types, conditionals, loops, functions, and basic file I/O. Students complete weekly coding labs and a final project building a text-based application of their choice. No prior experience required.
+Teacher: Ms. Ramirez | Room 108 | Office Hours: Mon/Wed 3:00–3:45 PM
+
+CS102 — Data Structures and Algorithms
+Credits: 1.0 | Grade Level: 10–11 | Prerequisite: CS101 (B or higher)
+Covers fundamental data structures (lists, stacks, queues, hash maps, trees, graphs) and the algorithms that operate on them. Emphasis on time and space complexity analysis using Big-O notation. Students implement data structures from scratch in Python and Java. Final project: design and analyze an original algorithm solving a real-world problem.
+Teacher: Mr. Okafor | Room 110 | Office Hours: Tue/Thu 7:30–8:00 AM
+
+CS201 — Honors Data Structures and Algorithms
+Credits: 1.0 (Honors weighted) | Grade Level: 10–11 | Prerequisite: CS101 (A, teacher recommendation)
+Accelerated version of CS102 with additional topics in dynamic programming, graph algorithms, and competitive programming techniques. Students participate in at least one regional programming contest. Heavy emphasis on mathematical proof and algorithmic thinking.
+Teacher: Mr. Okafor | Room 110 | Office Hours: Tue/Thu 7:30–8:00 AM
+
+CS110 — Web Development Fundamentals
+Credits: 0.5 | Grade Level: 9–12 | Prerequisite: None
+Half-year elective covering HTML, CSS, and introductory JavaScript. Students build and deploy a personal portfolio website by the end of the course. No prior experience required.
+Teacher: Ms. Patel | Room 106 | Office Hours: Fri 2:30–3:30 PM
+
+CS210 — Full-Stack Web Development
+Credits: 1.0 | Grade Level: 10–12 | Prerequisite: CS110 or CS101
+Students build full-stack web applications using React (frontend) and Flask or Node.js (backend). Topics include REST APIs, databases (SQL and NoSQL), authentication, and deployment. Final project: a fully deployed web app with a real user base (minimum 10 active users for full credit).
+Teacher: Ms. Patel | Room 106 | Office Hours: Fri 2:30–3:30 PM
+
+DEPARTMENT OF ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+-----------------------------------------------------------
+
+AI101 — Introduction to Artificial Intelligence
+Credits: 1.0 | Grade Level: 9–10 | Prerequisite: CS101
+Survey course covering the breadth of AI: search algorithms, game-playing agents, natural language processing, computer vision, and machine learning basics. Students implement minimax, A* search, and a simple neural network from scratch. No calculus required.
+Teacher: Dr. Chen | Room 204 | Office Hours: Mon/Wed/Fri 7:45–8:00 AM
+
+AI201 — Machine Learning
+Credits: 1.0 | Grade Level: 10–12 | Prerequisite: AI101, Algebra II
+Covers supervised learning (regression, classification), unsupervised learning (clustering, dimensionality reduction), and model evaluation. Tools: Python, scikit-learn, pandas, matplotlib. Students complete four ML projects across the year, each using a different real-world dataset.
+Teacher: Dr. Chen | Room 204 | Office Hours: Mon/Wed/Fri 7:45–8:00 AM
+
+AI202 — Honors Introduction to Machine Learning
+Credits: 1.0 (Honors weighted) | Grade Level: 11–12 | Prerequisite: AI201 (B+, teacher recommendation)
+Deeper treatment of ML theory: gradient descent, backpropagation, bias-variance tradeoff, regularization, and ensemble methods. Introduces neural networks and PyTorch. Students read and present one published ML paper per month and complete an independent research project submitted to a student AI competition.
+Teacher: Dr. Chen | Room 204 | Office Hours: Mon/Wed/Fri 7:45–8:00 AM
+
+AI210 — Natural Language Processing
+Credits: 0.5 | Grade Level: 11–12 | Prerequisite: AI201
+Half-year elective. Topics: tokenization, embeddings, sentiment analysis, text classification, and an introduction to transformer models. Students build a working NLP application (chatbot, text summarizer, or document classifier) as the final project.
+Teacher: Ms. Torres | Room 207 | Office Hours: Thu 3:00–4:00 PM
+
+AI220 — Computer Vision
+Credits: 0.5 | Grade Level: 11–12 | Prerequisite: AI201
+Half-year elective. Topics: image processing, convolutional neural networks, object detection, and image segmentation using OpenCV and PyTorch. Final project: a real-time vision application deployed on a Raspberry Pi or webcam.
+Teacher: Ms. Torres | Room 207 | Office Hours: Thu 3:00–4:00 PM
+
+AI301 — Ethics of Artificial Intelligence
+Credits: 0.5 | Grade Level: 9–12 | Prerequisite: None (can be taken alongside any AI or CS course)
+Seminar-style course examining the societal impact of AI systems. Topics include algorithmic bias, privacy, surveillance, autonomous weapons, labor displacement, and AI governance. Students debate real case studies and produce a policy brief as their final deliverable. Counts toward the AI Core graduation requirement.
+Teacher: Dr. Washington | Room 201 | Office Hours: Tue/Thu 3:15–4:00 PM
+
+AI302 — Honors Ethics of Artificial Intelligence
+Credits: 0.5 (Honors weighted) | Grade Level: 10–12 | Prerequisite: AI301 or concurrent enrollment, teacher recommendation
+Advanced seminar with a focus on original research and argumentation. Students produce a 15-page academic paper on an emerging AI ethics topic and present findings to a panel of community stakeholders.
+Teacher: Dr. Washington | Room 201 | Office Hours: Tue/Thu 3:15–4:00 PM
+
+CAPSTONE AND INDEPENDENT STUDY
+--------------------------------
+
+AI401 — Senior AI Capstone
+Credits: 1.0 | Grade Level: 12 | Prerequisite: Completion of at least 2 AI/CS credits
+Required for graduation. Students identify a real-world problem, design and build an AI-powered solution, write a technical report, and present their work to a faculty and industry panel. Students must pair with an industry mentor from the school's partner network. Meetings with the capstone advisor occur biweekly throughout the year.
+Teacher: Rotating faculty panel | Advisor: Ms. Kim | Room 202
+
+CS/AI490 — Independent Study
+Credits: 0.5–1.0 | Grade Level: 11–12 | Prerequisite: 3+ CS/AI credits, faculty sponsor
+Students design their own learning plan focused on a specific topic not covered in existing courses (e.g., reinforcement learning, robotics, cryptography). Requires weekly check-ins with a faculty sponsor and a public presentation at the end of the semester.
+
+MATHEMATICS
+------------
+
+MATH101 — Algebra II
+Credits: 1.0 | Grade Level: 9–10 | Prerequisite: Algebra I
+Required for all AI/ML courses at the 200 level. Topics include polynomial functions, rational expressions, exponentials, logarithms, and an introduction to statistics.
+Teacher: Mr. Singh | Room 301
+
+MATH201 — Pre-Calculus
+Credits: 1.0 | Grade Level: 10–11 | Prerequisite: Algebra II
+Covers trigonometry, vectors, matrices, and sequences. Bridges algebra and calculus and is required before AP Calculus AB.
+Teacher: Mr. Singh | Room 301
+
+MATH210 — Honors Linear Algebra
+Credits: 1.0 (Honors weighted) | Grade Level: 11–12 | Prerequisite: Pre-Calculus (B+)
+Covers vectors, matrices, linear transformations, eigenvalues, and eigenvectors with direct applications to machine learning (PCA, least squares, neural network weight matrices). Highly recommended for students pursuing AI202.
+Teacher: Ms. Nguyen | Room 305 | Office Hours: Mon/Wed 3:00–4:00 PM
+
+MATH301 — AP Statistics
+Credits: 1.0 (AP weighted) | Grade Level: 10–12 | Prerequisite: Algebra II
+Covers descriptive statistics, probability, inference, and regression. Directly applicable to machine learning model evaluation and data analysis projects.
+Teacher: Ms. Nguyen | Room 305 | Office Hours: Mon/Wed 3:00–4:00 PM
+
+GRADING AND LATE WORK POLICY (COURSES)
+----------------------------------------
+Each course teacher sets their own late work policy, which is stated in the course syllabus distributed on the first day of class. The school-wide default is a 10% deduction per school day late, up to a maximum of 50%. Work submitted more than 5 school days late receives a maximum score of 50%. Extensions may be granted for documented emergencies — contact your teacher before the due date.
+
+Projects in AI and CS courses are evaluated on a rubric covering: functionality (does it work?), code quality (is it readable and efficient?), documentation (is it explained?), and presentation (can the student answer questions about their own work?).
+
+COURSE REGISTRATION
+--------------------
+Course registration for the following year opens in March. Students meet with their counselor to plan their schedule. To register for an Honors or AP course, students must submit a course request form signed by the current teacher of the prerequisite course. Registration closes April 15. Schedule change requests after the first 10 days of school require department head approval.
+
+TUTORING AND ACADEMIC SUPPORT
+-------------------------------
+Peer tutoring is available for all CS and AI courses through the Coding for Good club. Students can request a tutor by emailing the club advisor at codingtutors@aiadvancedhigh.edu. Faculty office hours are listed in each course description above. The school also offers drop-in help sessions in the computer lab (Room 108) every Tuesday and Thursday from 3:30–5:00 PM, staffed by rotating CS and AI teachers.
